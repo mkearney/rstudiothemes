@@ -6,7 +6,8 @@ RStudio themes
 A RStudio addin for ggplot2 theme
 tweaking
 
-<div style="max-width:50%!important;">![](https://github.com/calligross/ggthemeassist/raw/master/examples/ggThemeAssist2.gif)</div>
+
+![](https://github.com/calligross/ggthemeassist/raw/master/examples/ggThemeAssist2.gif =80%)
 
 <div style="margin:0 auto!important; max-width:80%!important">
   <img src="https://github.com/calligross/ggthemeassist/raw/master/examples/ggThemeAssist2.gif">
