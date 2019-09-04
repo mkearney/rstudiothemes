@@ -7,7 +7,7 @@ A RStudio addin for ggplot2 theme
 tweaking
 
 
-![](https://github.com/calligross/ggthemeassist/raw/master/examples/ggThemeAssist2.gif =80%)
+![](https://github.com/calligross/ggthemeassist/raw/master/examples/ggThemeAssist2.gif =80x)
 
 <div style="margin:0 auto!important; max-width:80%!important">
   <img src="https://github.com/calligross/ggthemeassist/raw/master/examples/ggThemeAssist2.gif">
