@@ -6,7 +6,9 @@ RStudio themes
 A RStudio addin for ggplot2 theme
 tweaking
 
-<p style="margin:0 auto!important; max-width:80%!important"><img src="https://github.com/calligross/ggthemeassist/raw/master/examples/ggThemeAssist2.gif"></p>
+<div style="margin:0 auto!important; max-width:80%!important">
+  <img src="https://github.com/calligross/ggthemeassist/raw/master/examples/ggThemeAssist2.gif">
+</div>
 
 ## [tkrabel/rstudio\_atom\_theme](https://github.com/tkrabel/rstudio_atom_theme)
 
@@ -22,7 +24,9 @@ This is a project to create a dark theme for rstudio
 An RStudio theme inspired by Visual Studio
 Code.
 
-<p style="margin:0 auto!important; max-width:80%!important"><img src="https://github.com/anthonynorth/rscodeio/raw/master/inst/media/rscodeio.png"></p>
+<div style="margin:0 auto!important; max-width:80%!important">
+  <img src="https://github.com/anthonynorth/rscodeio/raw/master/inst/media/rscodeio.png">
+</div>
 
 ## [batpigandme/night-owlish](https://github.com/batpigandme/night-owlish)
 
