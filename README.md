@@ -8,7 +8,7 @@ tweaking
 
 <p style="text-align:center">
 
-<img src="https://github.com/calligross/ggthemeassist/raw/master/examples/ggThemeAssist2.gif" style="max-width:'80%' !important">
+<img src="https://github.com/calligross/ggthemeassist/raw/master/examples/ggThemeAssist2.gif" class="img80">
 
 </p>
 
@@ -28,7 +28,7 @@ Code.
 
 <p style="text-align:center">
 
-<img src="https://github.com/anthonynorth/rscodeio/raw/master/inst/media/rscodeio.png" style="max-width:'80%' !important">
+<img src="https://github.com/anthonynorth/rscodeio/raw/master/inst/media/rscodeio.png" class="img80">
 
 </p>
 
@@ -40,19 +40,19 @@ theme…
 
 <p style="text-align:center">
 
-<img src="https://raw.githubusercontent.com/batpigandme/night-owlish/master/img/night-owlish-r-script.png" style="max-width:'80%' !important">
+<img src="https://raw.githubusercontent.com/batpigandme/night-owlish/master/img/night-owlish-r-script.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://raw.githubusercontent.com/batpigandme/night-owlish/master/img/night-owlish-rmd-screenshot.png" style="max-width:'80%' !important">
+<img src="https://raw.githubusercontent.com/batpigandme/night-owlish/master/img/night-owlish-rmd-screenshot.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://i.imgur.com/KCW7dRa.png" style="max-width:'80%' !important">
+<img src="https://i.imgur.com/KCW7dRa.png" class="img80">
 
 </p>
 
@@ -63,7 +63,7 @@ v1.2+
 
 <p style="text-align:center">
 
-<img src="https://github.com/jnolis/synthwave85/raw/master/example.png" style="max-width:'80%' !important">
+<img src="https://github.com/jnolis/synthwave85/raw/master/example.png" class="img80">
 
 </p>
 
@@ -74,7 +74,7 @@ themes
 
 <p style="text-align:center">
 
-<img src="http://aaronbaggett.com/images/from_template.png" style="max-width:'80%' !important">
+<img src="http://aaronbaggett.com/images/from_template.png" class="img80">
 
 </p>
 
@@ -86,7 +86,7 @@ name.
 
 <p style="text-align:center">
 
-<img src="https://github.com/livelaughriley/daRkStudio/raw/master/images/dark-rstudio.png" style="max-width:'80%' !important">
+<img src="https://github.com/livelaughriley/daRkStudio/raw/master/images/dark-rstudio.png" class="img80">
 
 </p>
 
@@ -97,19 +97,19 @@ RStudio
 
 <p style="text-align:center">
 
-<img src="https://github.com/gadenbuie/yule-rstudio/raw/master/images/mockup-rstudio.png" style="max-width:'80%' !important">
+<img src="https://github.com/gadenbuie/yule-rstudio/raw/master/images/mockup-rstudio.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/gadenbuie/yule-rstudio/raw/master/images/floating-rstudio.png" style="max-width:'80%' !important">
+<img src="https://github.com/gadenbuie/yule-rstudio/raw/master/images/floating-rstudio.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/gadenbuie/yule-rstudio/raw/master/images/blinking-cursor.gif" style="max-width:'80%' !important">
+<img src="https://github.com/gadenbuie/yule-rstudio/raw/master/images/blinking-cursor.gif" class="img80">
 
 </p>
 
@@ -120,13 +120,13 @@ Beamer)
 
 <p style="text-align:center">
 
-<img src="https://github.com/illinois-r/uiucthemes/raw/master/tools/readme/beamer_illinois_slide_example.png" style="max-width:'80%' !important">
+<img src="https://github.com/illinois-r/uiucthemes/raw/master/tools/readme/beamer_illinois_slide_example.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/illinois-r/uiucthemes/raw/master/tools/readme/uiucthemes.png" style="max-width:'80%' !important">
+<img src="https://github.com/illinois-r/uiucthemes/raw/master/tools/readme/uiucthemes.png" class="img80">
 
 </p>
 
@@ -137,7 +137,7 @@ Themes
 
 <p style="text-align:center">
 
-<img src="https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/rsthemes.gif" style="max-width:'80%' !important">
+<img src="https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/rsthemes.gif" class="img80">
 
 </p>
 
@@ -148,7 +148,7 @@ Rstudio❄️
 
 <p style="text-align:center">
 
-<img src="https://github.com/mkearney/driven-snow/raw/master/img/screen-shot.png" style="max-width:'80%' !important">
+<img src="https://github.com/mkearney/driven-snow/raw/master/img/screen-shot.png" class="img80">
 
 </p>
 
@@ -169,13 +169,13 @@ My current RStudio theme
 
 <p style="text-align:center">
 
-<img src="https://github.com/brunaw/my-theme/raw/master/img/example.png" style="max-width:'80%' !important">
+<img src="https://github.com/brunaw/my-theme/raw/master/img/example.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/brunaw/my-theme/raw/master/img/example2.png" style="max-width:'80%' !important">
+<img src="https://github.com/brunaw/my-theme/raw/master/img/example2.png" class="img80">
 
 </p>
 
@@ -187,13 +187,12 @@ netlify.
 
 ## [gadenbuie/oceanic-eighties](https://github.com/gadenbuie/oceanic-eighties)
 
-👨
-🎤 Oceanic Eighties Theme for
+👨 🎤 Oceanic Eighties Theme for
 RStudio
 
 <p style="text-align:center">
 
-<img src="https://github.com/gadenbuie/oceanic-eighties/raw/master/oceanic-eighties.png" style="max-width:'80%' !important">
+<img src="https://github.com/gadenbuie/oceanic-eighties/raw/master/oceanic-eighties.png" class="img80">
 
 </p>
 
@@ -204,7 +203,7 @@ themes
 
 <p style="text-align:center">
 
-<img src="https://github.com/wvictor14/rstudio_themes/raw/master/images/preview_49th_parallel.png" style="max-width:'80%' !important">
+<img src="https://github.com/wvictor14/rstudio_themes/raw/master/images/preview_49th_parallel.png" class="img80">
 
 </p>
 
@@ -215,7 +214,7 @@ RStudio
 
 <p style="text-align:center">
 
-<img src="https://github.com/alletsee/rstudio-theme-collection/raw/master/rstudio_install_themes.png" style="max-width:'80%' !important">
+<img src="https://github.com/alletsee/rstudio-theme-collection/raw/master/rstudio_install_themes.png" class="img80">
 
 </p>
 
@@ -226,49 +225,49 @@ RStudio
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe-deuteranopia.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe-deuteranopia.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe-protanopia.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe-protanopia.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe-tritanopia.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe-tritanopia.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-dark.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-dark.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-grey.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-grey.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/limitation1.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/limitation1.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/limitation2.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/limitation2.png" class="img80">
 
 </p>
 
@@ -292,85 +291,85 @@ colours.
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/_img/dark.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/_img/dark.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/_img/light.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/_img/light.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/_img/pointsofview.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/_img/pointsofview.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-1-1.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-1-1.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-2-1.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-2-1.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-3-1.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-3-1.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-4-1.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-4-1.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-5-1.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-5-1.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-6-1.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-6-1.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-7-1.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-7-1.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-8-1.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-8-1.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-9-1.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-9-1.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-11-1.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-11-1.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-11-2.png" style="max-width:'80%' !important">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-11-2.png" class="img80">
 
 </p>
 
@@ -394,7 +393,7 @@ theme
 
 <p style="text-align:center">
 
-<img src="https://github.com/tbradley1013/rstudio-theme/raw/master/www/merbivore-custom.png" style="max-width:'80%' !important">
+<img src="https://github.com/tbradley1013/rstudio-theme/raw/master/www/merbivore-custom.png" class="img80">
 
 </p>
 
@@ -405,7 +404,7 @@ RStudio
 
 <p style="text-align:center">
 
-<img src="https://raw.githubusercontent.com/mikmart/themetoggle/master/inst/media/toggling-themes.gif" style="max-width:'80%' !important">
+<img src="https://raw.githubusercontent.com/mikmart/themetoggle/master/inst/media/toggling-themes.gif" class="img80">
 
 </p>
 
@@ -416,49 +415,49 @@ collection
 
 <p style="text-align:center">
 
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Nord.png" style="max-width:'80%' !important">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Nord.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Atom.png" style="max-width:'80%' !important">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Atom.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Yule.png" style="max-width:'80%' !important">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Yule.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Night-Owlish.png" style="max-width:'80%' !important">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Night-Owlish.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Wombat.png" style="max-width:'80%' !important">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Wombat.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Grubber.png" style="max-width:'80%' !important">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Grubber.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Oceanic-Eighties.png" style="max-width:'80%' !important">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Oceanic-Eighties.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Apprentice.png" style="max-width:'80%' !important">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Apprentice.png" class="img80">
 
 </p>
 
@@ -479,7 +478,7 @@ Code
 
 <p style="text-align:center">
 
-<img src="https://github.com/michaelasher/CustomRStudioTheme/raw/master/images/RStudioAsherAppearance.png" style="max-width:'80%' !important">
+<img src="https://github.com/michaelasher/CustomRStudioTheme/raw/master/images/RStudioAsherAppearance.png" class="img80">
 
 </p>
 
@@ -490,7 +489,7 @@ theme
 
 <p style="text-align:center">
 
-<img src="https://user-images.githubusercontent.com/18128531/27059158-6c0ed8a6-5018-11e7-9b02-6e7f5c556ab0.png" style="max-width:'80%' !important">
+<img src="https://user-images.githubusercontent.com/18128531/27059158-6c0ed8a6-5018-11e7-9b02-6e7f5c556ab0.png" class="img80">
 
 </p>
 
@@ -501,7 +500,7 @@ Updated Jul 19,
 
 <p style="text-align:center">
 
-<img src="https://github.com/braudm/rstudio_umi_theme/raw/master/umi-theme_example.PNG" style="max-width:'80%' !important">
+<img src="https://github.com/braudm/rstudio_umi_theme/raw/master/umi-theme_example.PNG" class="img80">
 
 </p>
 
@@ -512,13 +511,13 @@ theme.
 
 <p style="text-align:center">
 
-<img src="https://github.com/mcoshima/Nord-RStudio-Theme/raw/master/markdown_ss.PNG" style="max-width:'80%' !important">
+<img src="https://github.com/mcoshima/Nord-RStudio-Theme/raw/master/markdown_ss.PNG" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/mcoshima/Nord-RStudio-Theme/raw/master/code_ss.PNG" style="max-width:'80%' !important">
+<img src="https://github.com/mcoshima/Nord-RStudio-Theme/raw/master/code_ss.PNG" class="img80">
 
 </p>
 
@@ -529,13 +528,13 @@ vscode
 
 <p style="text-align:center">
 
-<img src="https://github.com/takemal-studio/Zinogre/raw/master/Zinogre.png" style="max-width:'80%' !important">
+<img src="https://github.com/takemal-studio/Zinogre/raw/master/Zinogre.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/takemal-studio/Zinogre/raw/master/sample_code.png" style="max-width:'80%' !important">
+<img src="https://github.com/takemal-studio/Zinogre/raw/master/sample_code.png" class="img80">
 
 </p>
 
@@ -546,7 +545,7 @@ vscode
 
 <p style="text-align:center">
 
-<img src="https://github.com/takemal-studio/EvangelionUnit01-colour-theme/raw/master/EvaUnit01.png" style="max-width:'80%' !important">
+<img src="https://github.com/takemal-studio/EvangelionUnit01-colour-theme/raw/master/EvaUnit01.png" class="img80">
 
 </p>
 
@@ -569,7 +568,7 @@ RStudio.
 
 <p style="text-align:center">
 
-<img src="https://github.com/alletsee/nord-rstudio/raw/master/img/nord-rstudio-full.png" style="max-width:'80%' !important">
+<img src="https://github.com/alletsee/nord-rstudio/raw/master/img/nord-rstudio-full.png" class="img80">
 
 </p>
 
@@ -580,7 +579,7 @@ away…
 
 <p style="text-align:center">
 
-<img src="https://raw.githubusercontent.com/JesseLeite/an-old-hope-syntax-atom/master/palette.jpg" style="max-width:'80%' !important">
+<img src="https://raw.githubusercontent.com/JesseLeite/an-old-hope-syntax-atom/master/palette.jpg" class="img80">
 
 </p>
 
@@ -591,7 +590,7 @@ RStudio.
 
 <p style="text-align:center">
 
-<img src="https://github.com/camkay/outRun/raw/master/example/outrun_theme_example.png" style="max-width:'80%' !important">
+<img src="https://github.com/camkay/outRun/raw/master/example/outrun_theme_example.png" class="img80">
 
 </p>
 
@@ -610,7 +609,7 @@ theme
 
 <p style="text-align:center">
 
-<img src="https://github.com/chiefBiiko/abaw/raw/master/abaw.PNG" style="max-width:'80%' !important">
+<img src="https://github.com/chiefBiiko/abaw/raw/master/abaw.PNG" class="img80">
 
 </p>
 
@@ -625,13 +624,13 @@ themes
 
 <p style="text-align:center">
 
-<img src="https://github.com/js-oh/ayu-light-owl/raw/master/images/ayu-light-owl-script-screenshot.png" style="max-width:'80%' !important">
+<img src="https://github.com/js-oh/ayu-light-owl/raw/master/images/ayu-light-owl-script-screenshot.png" class="img80">
 
 </p>
 
 <p style="text-align:center">
 
-<img src="https://github.com/js-oh/ayu-light-owl/raw/master/images/ayu-light-owl-notebook-screenshot.png" style="max-width:'80%' !important">
+<img src="https://github.com/js-oh/ayu-light-owl/raw/master/images/ayu-light-owl-notebook-screenshot.png" class="img80">
 
 </p>
 
@@ -642,7 +641,7 @@ themes
 
 <p style="text-align:center">
 
-<img src="https://github.com/themechanicalbear/nhlthemes/raw/master/nhlthemes_demo.gif" style="max-width:'80%' !important">
+<img src="https://github.com/themechanicalbear/nhlthemes/raw/master/nhlthemes_demo.gif" class="img80">
 
 </p>
 
@@ -657,7 +656,7 @@ format.
 
 <p style="text-align:center">
 
-<img src="https://raw.githubusercontent.com/robertmyles/grubber/master/grubber.png" style="max-width:'80%' !important">
+<img src="https://raw.githubusercontent.com/robertmyles/grubber/master/grubber.png" class="img80">
 
 </p>
 
@@ -668,7 +667,7 @@ appearance
 
 <p style="text-align:center">
 
-<img src="https://github.com/mdlincoln/darkly/raw/master/man/figures/darkly.gif" style="max-width:'80%' !important">
+<img src="https://github.com/mdlincoln/darkly/raw/master/man/figures/darkly.gif" class="img80">
 
 </p>
 
@@ -720,6 +719,10 @@ anything…
 
 <p style="text-align:center">
 
-<img src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" style="max-width:'80%' !important">
+<img src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" class="img80">
 
 </p>
+
+<style>
+img80 {max-width: 80% !important;}
+</style>
