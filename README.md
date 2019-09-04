@@ -6,12 +6,9 @@ RStudio themes
 A RStudio addin for ggplot2 theme
 tweaking
 
-
-<p align="center"><img src="https://github.com/calligross/ggthemeassist/raw/master/examples/ggThemeAssist2.gif" width='80%' /></p>
-
-<div style="margin:0 auto!important; max-width:80%!important">
-  <img src="https://github.com/calligross/ggthemeassist/raw/master/examples/ggThemeAssist2.gif">
-</div>
+<p align="center">
+<img src="https://github.com/calligross/ggthemeassist/raw/master/examples/ggThemeAssist2.gif" width='80%' />
+</p>
 
 ## [tkrabel/rstudio\_atom\_theme](https://github.com/tkrabel/rstudio_atom_theme)
 
@@ -27,9 +24,9 @@ This is a project to create a dark theme for rstudio
 An RStudio theme inspired by Visual Studio
 Code.
 
-<div style="margin:0 auto!important; max-width:80%!important">
-  <img src="https://github.com/anthonynorth/rscodeio/raw/master/inst/media/rscodeio.png">
-</div>
+<p align="center">
+<img src="https://github.com/anthonynorth/rscodeio/raw/master/inst/media/rscodeio.png" width='80%' />
+</p>
 
 ## [batpigandme/night-owlish](https://github.com/batpigandme/night-owlish)
 
@@ -37,24 +34,25 @@ Code.
 VS Code
 theme…
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://raw.githubusercontent.com/batpigandme/night-owlish/master/img/night-owlish-r-script.png">
+<p align="center">
+<img src="https://raw.githubusercontent.com/batpigandme/night-owlish/master/img/night-owlish-r-script.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://raw.githubusercontent.com/batpigandme/night-owlish/master/img/night-owlish-rmd-screenshot.png">
+<p align="center">
+<img src="https://raw.githubusercontent.com/batpigandme/night-owlish/master/img/night-owlish-rmd-screenshot.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://i.imgur.com/KCW7dRa.png">
+<p align="center">
+<img src="https://i.imgur.com/KCW7dRa.png" width='80%' />
 </p>
 
 ## [jnolis/synthwave85](https://github.com/jnolis/synthwave85)
 
-A 80s style theme for RStudio v1.2+
+A 80s style theme for RStudio
+v1.2+
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/jnolis/synthwave85/raw/master/example.png">
+<p align="center">
+<img src="https://github.com/jnolis/synthwave85/raw/master/example.png" width='80%' />
 </p>
 
 ## [aaronbaggett/youngmetro](https://github.com/aaronbaggett/youngmetro)
@@ -62,8 +60,8 @@ A 80s style theme for RStudio v1.2+
 R Markdown Beamer Theme Based on sthlm, HSRM, and Metropolis
 themes
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="http://aaronbaggett.com/images/from_template.png">
+<p align="center">
+<img src="http://aaronbaggett.com/images/from_template.png" width='80%' />
 </p>
 
 ## [livelaughriley/daRkStudio](https://github.com/livelaughriley/daRkStudio)
@@ -72,8 +70,8 @@ Darker RStudio Modern theme. S/O to reddit user u/LiesLies for the
 project
 name.
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/livelaughriley/daRkStudio/raw/master/images/dark-rstudio.png">
+<p align="center">
+<img src="https://github.com/livelaughriley/daRkStudio/raw/master/images/dark-rstudio.png" width='80%' />
 </p>
 
 ## [gadenbuie/yule-rstudio](https://github.com/gadenbuie/yule-rstudio)
@@ -81,16 +79,16 @@ name.
 ⛄️🎄🖥 A Holiday Theme for
 RStudio
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/gadenbuie/yule-rstudio/raw/master/images/mockup-rstudio.png">
+<p align="center">
+<img src="https://github.com/gadenbuie/yule-rstudio/raw/master/images/mockup-rstudio.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/gadenbuie/yule-rstudio/raw/master/images/floating-rstudio.png">
+<p align="center">
+<img src="https://github.com/gadenbuie/yule-rstudio/raw/master/images/floating-rstudio.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/gadenbuie/yule-rstudio/raw/master/images/blinking-cursor.gif">
+<p align="center">
+<img src="https://github.com/gadenbuie/yule-rstudio/raw/master/images/blinking-cursor.gif" width='80%' />
 </p>
 
 ## [illinois-r/uiucthemes](https://github.com/illinois-r/uiucthemes)
@@ -98,12 +96,12 @@ RStudio
 RMarkdown Templates for UIUC Theme-Oriented Documents (e.g. UIUC
 Beamer)
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/illinois-r/uiucthemes/raw/master/tools/readme/beamer_illinois_slide_example.png">
+<p align="center">
+<img src="https://github.com/illinois-r/uiucthemes/raw/master/tools/readme/beamer_illinois_slide_example.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/illinois-r/uiucthemes/raw/master/tools/readme/uiucthemes.png">
+<p align="center">
+<img src="https://github.com/illinois-r/uiucthemes/raw/master/tools/readme/uiucthemes.png" width='80%' />
 </p>
 
 ## [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes)
@@ -111,8 +109,8 @@ Beamer)
 🔮 Full RStudio IDE and Syntax
 Themes
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/rsthemes.gif">
+<p align="center">
+<img src="https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/rsthemes.gif" width='80%' />
 </p>
 
 ## [mkearney/driven-snow](https://github.com/mkearney/driven-snow)
@@ -120,8 +118,8 @@ Themes
 ❄️A light, bare-bones custom theme for
 Rstudio❄️
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/mkearney/driven-snow/raw/master/img/screen-shot.png">
+<p align="center">
+<img src="https://github.com/mkearney/driven-snow/raw/master/img/screen-shot.png" width='80%' />
 </p>
 
 ## [janusvm/nord-rstudio](https://github.com/janusvm/nord-rstudio)
@@ -139,12 +137,12 @@ instructions can be found at <https://support.rstudio.c>…
 My current RStudio theme
 :)
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/brunaw/my-theme/raw/master/img/example.png">
+<p align="center">
+<img src="https://github.com/brunaw/my-theme/raw/master/img/example.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/brunaw/my-theme/raw/master/img/example2.png">
+<p align="center">
+<img src="https://github.com/brunaw/my-theme/raw/master/img/example2.png" width='80%' />
 </p>
 
 ## [libjohn/blogdown-libjohn](https://github.com/libjohn/blogdown-libjohn)
@@ -158,8 +156,8 @@ netlify.
 👨 🎤 Oceanic Eighties Theme for
 RStudio
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/gadenbuie/oceanic-eighties/raw/master/oceanic-eighties.png">
+<p align="center">
+<img src="https://github.com/gadenbuie/oceanic-eighties/raw/master/oceanic-eighties.png" width='80%' />
 </p>
 
 ## [wvictor14/rstudio\_themes](https://github.com/wvictor14/rstudio_themes)
@@ -167,8 +165,8 @@ RStudio
 Collection of rstudio
 themes
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/wvictor14/rstudio_themes/raw/master/images/preview_49th_parallel.png">
+<p align="center">
+<img src="https://github.com/wvictor14/rstudio_themes/raw/master/images/preview_49th_parallel.png" width='80%' />
 </p>
 
 ## [alletsee/rstudio-theme-collection](https://github.com/alletsee/rstudio-theme-collection)
@@ -176,8 +174,8 @@ themes
 A collection of themes for
 RStudio
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/alletsee/rstudio-theme-collection/raw/master/rstudio_install_themes.png">
+<p align="center">
+<img src="https://github.com/alletsee/rstudio-theme-collection/raw/master/rstudio_install_themes.png" width='80%' />
 </p>
 
 ## [DesiQuintans/pebble-themes](https://github.com/DesiQuintans/pebble-themes)
@@ -185,37 +183,36 @@ RStudio
 ‘Pebble’ is a family of themes for RStudio
 1.2.x
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe-deuteranopia.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe-deuteranopia.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe-protanopia.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe-protanopia.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe-tritanopia.png">
-
+<p align="center">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-safe-tritanopia.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-dark.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-dark.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-grey.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/pebble-grey.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/limitation1.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/limitation1.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/limitation2.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/pebble-themes/raw/master/images/limitation2.png" width='80%' />
 </p>
 
 ## [inaki/RstudioThemes](https://github.com/inaki/RstudioThemes)
@@ -236,60 +233,60 @@ Rstudio
 Light and dark RStudio 1.2.x themes with colourblind-safe
 colours.
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/_img/dark.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/_img/dark.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/_img/light.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/_img/light.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/_img/pointsofview.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/_img/pointsofview.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-1-1.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-1-1.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-2-1.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-2-1.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-3-1.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-3-1.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-4-1.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-4-1.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-5-1.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-5-1.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-6-1.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-6-1.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-7-1.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-7-1.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-8-1.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-8-1.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-9-1.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-9-1.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-11-1.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-11-1.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-11-2.png">
+<p align="center">
+<img src="https://github.com/DesiQuintans/Pebble-safe/raw/master/README_files/figure-gfm/unnamed-chunk-11-2.png" width='80%' />
 </p>
 
 ## [bweiher/rstudio\_themes](https://github.com/bweiher/rstudio_themes)
@@ -310,8 +307,8 @@ themes
 This repo contains my custom rstudio
 theme
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/tbradley1013/rstudio-theme/raw/master/www/merbivore-custom.png">
+<p align="center">
+<img src="https://github.com/tbradley1013/rstudio-theme/raw/master/www/merbivore-custom.png" width='80%' />
 </p>
 
 ## [mikmart/themetoggle](https://github.com/mikmart/themetoggle)
@@ -319,8 +316,8 @@ theme
 Toggle Through Themes in
 RStudio
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://raw.githubusercontent.com/mikmart/themetoggle/master/inst/media/toggling-themes.gif">
+<p align="center">
+<img src="https://raw.githubusercontent.com/mikmart/themetoggle/master/inst/media/toggling-themes.gif" width='80%' />
 </p>
 
 ## [maxto/rstudio\_theme\_collection](https://github.com/maxto/rstudio_theme_collection)
@@ -328,36 +325,36 @@ RStudio
 Rstudio theme
 collection
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Nord.png">
+<p align="center">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Nord.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Atom.png">
+<p align="center">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Atom.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Yule.png">
+<p align="center">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Yule.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Night-Owlish.png">
+<p align="center">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Night-Owlish.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Wombat.png">
+<p align="center">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Wombat.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Grubber.png">
+<p align="center">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Grubber.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Oceanic-Eighties.png">
+<p align="center">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Oceanic-Eighties.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Apprentice.png">
+<p align="center">
+<img src="https://github.com/maxto/rstudio_theme_collection/raw/master/Apprentice.png" width='80%' />
 </p>
 
 ## [davidgibsonp/ayu-rstudio](https://github.com/davidgibsonp/ayu-rstudio)
@@ -375,8 +372,8 @@ Updated May 14,
 Custom R Studio Theme to Resemble VS
 Code
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/michaelasher/CustomRStudioTheme/raw/master/images/RStudioAsherAppearance.png">
+<p align="center">
+<img src="https://github.com/michaelasher/CustomRStudioTheme/raw/master/images/RStudioAsherAppearance.png" width='80%' />
 </p>
 
 ## [mitchelllisle/rstudio\_atom\_theme](https://github.com/mitchelllisle/rstudio_atom_theme)
@@ -384,8 +381,8 @@ Code
 A theme for Rstudio that looks like the default atom
 theme
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://user-images.githubusercontent.com/18128531/27059158-6c0ed8a6-5018-11e7-9b02-6e7f5c556ab0.png">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/18128531/27059158-6c0ed8a6-5018-11e7-9b02-6e7f5c556ab0.png" width='80%' />
 </p>
 
 ## [braudm/rstudio\_umi\_theme](https://github.com/braudm/rstudio_umi_theme)
@@ -393,8 +390,8 @@ theme
 Updated Jul 19,
 2019
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/braudm/rstudio_umi_theme/raw/master/umi-theme_example.PNG">
+<p align="center">
+<img src="https://github.com/braudm/rstudio_umi_theme/raw/master/umi-theme_example.PNG" width='80%' />
 </p>
 
 ## [mcoshima/Nord-RStudio-Theme](https://github.com/mcoshima/Nord-RStudio-Theme)
@@ -402,12 +399,12 @@ Updated Jul 19,
 A customized version of the Nord RStudio
 theme.
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/mcoshima/Nord-RStudio-Theme/raw/master/markdown_ss.PNG">
+<p align="center">
+<img src="https://github.com/mcoshima/Nord-RStudio-Theme/raw/master/markdown_ss.PNG" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/mcoshima/Nord-RStudio-Theme/raw/master/code_ss.PNG">
+<p align="center">
+<img src="https://github.com/mcoshima/Nord-RStudio-Theme/raw/master/code_ss.PNG" width='80%' />
 </p>
 
 ## [takemal-studio/Zinogre-colour-theme](https://github.com/takemal-studio/Zinogre-colour-theme)
@@ -415,12 +412,12 @@ theme.
 colour\_theme for rstudio &
 vscode
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/takemal-studio/Zinogre/raw/master/Zinogre.png">
+<p align="center">
+<img src="https://github.com/takemal-studio/Zinogre/raw/master/Zinogre.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/takemal-studio/Zinogre/raw/master/sample_code.png">
+<p align="center">
+<img src="https://github.com/takemal-studio/Zinogre/raw/master/sample_code.png" width='80%' />
 </p>
 
 ## [takemal-studio/EvangelionUnit01-colour-theme](https://github.com/takemal-studio/EvangelionUnit01-colour-theme)
@@ -428,8 +425,8 @@ vscode
 colour\_theme for rstudio &
 vscode
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/takemal-studio/EvangelionUnit01-colour-theme/raw/master/EvaUnit01.png">
+<p align="center">
+<img src="https://github.com/takemal-studio/EvangelionUnit01-colour-theme/raw/master/EvaUnit01.png" width='80%' />
 </p>
 
 ## [jannikbuhr/themeSwitch](https://github.com/jannikbuhr/themeSwitch)
@@ -449,8 +446,8 @@ A collection of themes for RStudio
 An arctic, north-bluish clean and elegant theme for
 RStudio.
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/alletsee/nord-rstudio/raw/master/img/nord-rstudio-full.png">
+<p align="center">
+<img src="https://github.com/alletsee/nord-rstudio/raw/master/img/nord-rstudio-full.png" width='80%' />
 </p>
 
 ## [otzslayer/an-old-hope-rstudio](https://github.com/otzslayer/an-old-hope-rstudio)
@@ -458,8 +455,8 @@ RStudio.
 RStudio theme inspired by a galaxy far far
 away…
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://raw.githubusercontent.com/JesseLeite/an-old-hope-syntax-atom/master/palette.jpg">
+<p align="center">
+<img src="https://raw.githubusercontent.com/JesseLeite/an-old-hope-syntax-atom/master/palette.jpg" width='80%' />
 </p>
 
 ## [camkay/outRun](https://github.com/camkay/outRun)
@@ -467,10 +464,8 @@ away…
 An Outrun-inspired editor theme for
 RStudio.
 
-<p style="margin:0 auto!important; max-width:80%!important">
-
-<img src="https://github.com/camkay/outRun/raw/master/example/outrun_theme_example.png">
-
+<p align="center">
+<img src="https://github.com/camkay/outRun/raw/master/example/outrun_theme_example.png" width='80%' />
 </p>
 
 ## [daniel-wing/learntesting](https://github.com/daniel-wing/learntesting)
@@ -483,10 +478,11 @@ Aprentice theme for RStudio and Textmate
 
 ## [chiefbiiko/abaw](https://github.com/chiefbiiko/abaw)
 
-all-black-and-white RStudio theme
+all-black-and-white RStudio
+theme
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/chiefBiiko/abaw/raw/master/abaw.PNG">
+<p align="center">
+<img src="https://github.com/chiefBiiko/abaw/raw/master/abaw.PNG" width='80%' />
 </p>
 
 ## [alapo/DarkTheme](https://github.com/alapo/DarkTheme)
@@ -498,12 +494,12 @@ My attempt to edit a Dark Theme in RStudio and make it work
 A light theme for RStudio adapted from Ayu Light and Light Owl
 themes
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/js-oh/ayu-light-owl/raw/master/images/ayu-light-owl-script-screenshot.png">
+<p align="center">
+<img src="https://github.com/js-oh/ayu-light-owl/raw/master/images/ayu-light-owl-script-screenshot.png" width='80%' />
 </p>
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/js-oh/ayu-light-owl/raw/master/images/ayu-light-owl-notebook-screenshot.png">
+<p align="center">
+<img src="https://github.com/js-oh/ayu-light-owl/raw/master/images/ayu-light-owl-notebook-screenshot.png" width='80%' />
 </p>
 
 ## [themechanicalbear/nhlthemes](https://github.com/themechanicalbear/nhlthemes)
@@ -511,8 +507,8 @@ themes
 RStudio addin to swtich to NHL colored
 themes
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/themechanicalbear/nhlthemes/raw/master/nhlthemes_demo.gif">
+<p align="center">
+<img src="https://github.com/themechanicalbear/nhlthemes/raw/master/nhlthemes_demo.gif" width='80%' />
 </p>
 
 ## [nmoorenz/hugo-hyde-website](https://github.com/nmoorenz/hugo-hyde-website)
@@ -524,8 +520,8 @@ Personal website made with RStudio, Hugo, Hyde theme, and Netlify
 Grubber is a theme for Rstudio, in .rstheme
 format.
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://raw.githubusercontent.com/robertmyles/grubber/master/grubber.png">
+<p align="center">
+<img src="https://raw.githubusercontent.com/robertmyles/grubber/master/grubber.png" width='80%' />
 </p>
 
 ## [mdlincoln/darkly](https://github.com/mdlincoln/darkly)
@@ -533,8 +529,8 @@ format.
 Match the RStudio editor theme to the operating system
 appearance
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://github.com/mdlincoln/darkly/raw/master/man/figures/darkly.gif">
+<p align="center">
+<img src="https://github.com/mdlincoln/darkly/raw/master/man/figures/darkly.gif" width='80%' />
 </p>
 
 ## [mtgingrass/yet\_another\_blog](https://github.com/mtgingrass/yet_another_blog)
@@ -583,6 +579,6 @@ Academic makes it easy to create a beautiful website for free using
 Markdown, Jupyter, or RStudio. Customize
 anything…
 
-<p style="margin:0 auto!important; max-width:80%!important">
-<img src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png">
+<p align="center">
+<img src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" width='80%' />
 </p>
